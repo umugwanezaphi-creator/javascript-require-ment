@@ -117,3 +117,12 @@
 // const arr = [1, 2, 3, 4, 5];
 // arr.splice(0, 2);
 // console.log(arr);
+
+// const myname = "kizito";
+// console.log(myname.toLocaleLowerCase);
+// console.log(myname.toLocaleUpperCase);
+// console.log(myname.replaceAll("i", "o"));
+
+// console.log(myname.split());
+// window.confirm("are you gay");
+// console.log(window);
